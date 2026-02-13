@@ -6,7 +6,7 @@ This project showcases a Tableau Public dashboard analyzing global COVID-19 tren
 [Click here to view the dashboard](https://public.tableau.com/app/profile/linh.ngo6980/viz/CovidDashboard_17696274955630/Dashboard1)
 
 ## Dashboard Preview
-![Dashboard Preview](Exports/Covid%20Dashboard.png)
+![Dashboard Preview](Covid%20Dashboard.png)
 
 ## Dataset
 - Our World in Data (OWID) COVID-19 dataset
