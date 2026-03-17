@@ -37,13 +37,12 @@ Two PowerBI dashboards were created:
 - Time-series trends (2011–2024)
 - Smoking, obesity, mental health indicators
 - Age and deprivation comparisons
+![Dashboard Preview](nzhealthdb1.png)
 
 2. Health Inequality Dashboard
 - Top disparities between demographic groups
 - Ethnic comparisons
 - Risk ratios with confidence intervals
-
-![Dashboard Preview](nzhealthdb1.png)
 ![Dashboard Preview](nzhealthdb2.png)
 
 
