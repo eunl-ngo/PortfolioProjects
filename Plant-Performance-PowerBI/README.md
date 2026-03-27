@@ -12,7 +12,6 @@ variance tracking, drill through country, product and a profitability segmentati
 - Power BI Desktop
 - DAX (Time Intelligence, SWITCH logic)
 - Data Modelling
-- GitHub
 
 ---
 
